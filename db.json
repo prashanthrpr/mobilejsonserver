@@ -126,6 +126,133 @@
         "createdAt": "2019-11-12T07:23:37.758Z",
         "updatedAt": "2019-11-12T07:23:37.758Z"
       }
+    },
+	  {
+      "id": 1488,
+      "brand_id": 6,
+      "category_id": 2,
+      "style_id": 22,
+      "img_id": 57,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAyYSEA-rs6JxswhXiKtDhQpZCZCzMtxubU3r09Lr4jIJxI_s7",
+      "variant_name": "fs1 S-Black-Sleeveless-Boxy",
+      "sku": "fs1-0",
+      "price": "",
+      "quantity": "",
+      "status": true,
+      "hex_color_id": null,
+      "combination_data": [{
+          "theme_title": "Size",
+          "value": "S"
+        },
+        {
+          "theme_title": "Color",
+          "value": "Black"
+        },
+        {
+          "theme_title": "Sleeve Length",
+          "value": "Sleeveless"
+        },
+        {
+          "theme_title": "Fit",
+          "value": "Boxy"
+        }
+      ],
+      "createdAt": "2019-11-12T07:23:37.623Z",
+      "updatedAt": "2019-11-19T12:53:55.957Z",
+      "public_code": {
+        "brand_id": 6,
+        "variant_id": 1488,
+        "public_uuid": "b3e8274d-81af-4e98-ae69-3b98633054bf",
+        "img_path": null,
+        "status": "created",
+        "createdAt": "2019-11-12T07:23:37.758Z",
+        "updatedAt": "2019-11-12T07:23:37.758Z"
+      }
+    },
+    {
+      "id": 1493,
+      "brand_id": 6,
+      "category_id": 2,
+      "style_id": 22,
+      "img_id": 58,
+      "img_url": "https://gd.image-gmkt.com/li/308/196/1121196308.g_400-w-st_g.jpg",
+      "variant_name": "fs1 L-White-Sleeveless-Boxy",
+      "sku": "fs1-5",
+      "price": "",
+      "quantity": "",
+      "status": true,
+      "hex_color_id": null,
+      "combination_data": [{
+          "theme_title": "Size",
+          "value": "L"
+        },
+        {
+          "theme_title": "Color",
+          "value": "White"
+        },
+        {
+          "theme_title": "Sleeve Length",
+          "value": "Sleeveless"
+        },
+        {
+          "theme_title": "Fit",
+          "value": "Boxy"
+        }
+      ],
+      "createdAt": "2019-11-12T07:23:37.627Z",
+      "updatedAt": "2019-11-19T12:53:55.958Z",
+      "public_code": {
+        "brand_id": 6,
+        "variant_id": 1493,
+        "public_uuid": "7a0f7cf6-3443-441d-b533-21618059021a",
+        "img_path": null,
+        "status": "created",
+        "createdAt": "2019-11-12T07:23:37.776Z",
+        "updatedAt": "2019-11-12T07:23:37.776Z"
+      }
+    },
+    {
+      "id": 1489,
+      "brand_id": 6,
+      "category_id": 2,
+      "style_id": 22,
+      "img_id": 58,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAyYSEA-rs6JxswhXiKtDhQpZCZCzMtxubU3r09Lr4jIJxI_s7",
+      "variant_name": "fs1 S-Black-Sleeveless-Boxy",
+      "variant_name": "fs1 S-White-Sleeveless-Boxy",
+      "sku": "fs1-1",
+      "price": "",
+      "quantity": "",
+      "status": true,
+      "hex_color_id": null,
+      "combination_data": [{
+          "theme_title": "Size",
+          "value": "S"
+        },
+        {
+          "theme_title": "Color",
+          "value": "White"
+        },
+        {
+          "theme_title": "Sleeve Length",
+          "value": "Sleeveless"
+        },
+        {
+          "theme_title": "Fit",
+          "value": "Boxy"
+        }
+      ],
+      "createdAt": "2019-11-12T07:23:37.624Z",
+      "updatedAt": "2019-11-19T12:53:55.958Z",
+      "public_code": {
+        "brand_id": 6,
+        "variant_id": 1489,
+        "public_uuid": "0b472d57-6965-4c2d-a98a-b1c72d137789",
+        "img_path": null,
+        "status": "created",
+        "createdAt": "2019-11-12T07:23:37.758Z",
+        "updatedAt": "2019-11-12T07:23:37.758Z"
+      }
     }
   ]
 }
